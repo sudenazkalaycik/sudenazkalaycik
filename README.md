@@ -6,7 +6,8 @@
 
 <h1 align="center">Hi 🐢 I'm Sudenaz</h1>
 
-<h3 align="center">I am a person who is interested in every field 🦥 but I am currently developing android👀</h3>
+<h3 align="center">I am a person who is interested in every field 🦥 but I am currently developing android👀
+P.S. I love turtles. 🐢</h3>
 
 - 🌱 I’m currently learning **Kotlin, Flutter and Python**
 
